@@ -1,4 +1,4 @@
-                                     IT  IS A PROJECT - TO  DETECT AND IDENTIFY HANDWRITTEN DIGITS USING CONVOLUTIONAL NEURAL NETWORK 
+                  IT  IS A PROJECT - TO  DETECT AND IDENTIFY HANDWRITTEN DIGITS USING CONVOLUTIONAL NEURAL NETWORK 
                                         
                                         
                   HOW TO USE:-
